@@ -15,9 +15,20 @@
 
 ---
 
+### 🎬 Portfolio
+
+<p align="center">
+  <a href="https://claude.ai/artifact/HaSgbzC8e79U4woMXFA3RV">
+    <img src="./assets/portfolio-banner.png" width="720" alt="Watch the cinematic portfolio" />
+  </a>
+</p>
+<p align="center"><i>Click to open the full cinematic portfolio — live stats, field log, and the OCI TeraBot build walkthrough.</i></p>
+
+---
+
 ### 👨‍💻 About Me
 
-I'm a **Senior Associate Technical Consultant** at **4i Apps Solutions**, Chennai, with **3+ years** administering enterprise **Oracle Cloud Infrastructure (OCI)** environments for clients across the **Middle East and Asia** — including **KPMG, Msheireb, Omran, Darwish Holding, and CCC**. I specialize in cloud infrastructure, IAM/security, and combining **Infrastructure-as-Code with GenAI** to make cloud teams move faster.
+I'm a **Senior Associate Technical Consultant** at **4i Apps Solutions**, Chennai, with **3+ years** administering enterprise **Oracle Cloud Infrastructure (OCI)** environments for **15+ clients** across the **Middle East and Asia** — including **KPMG, Msheireb, Omran, Darwish Holding, and CCC**. I specialize in cloud infrastructure, IAM/security, and combining **Infrastructure-as-Code with GenAI** to make cloud teams move faster.
 
 - 🔭 Currently building **OCI TeraBot** — an AI-powered Terraform generator using the **Anthropic Claude API**
 - 🛡️ Focused on **IAM, SSO federation, and CIS 3.0 OCI Foundations Benchmark** hardening
@@ -36,6 +47,7 @@ I'm a **Senior Associate Technical Consultant** at **4i Apps Solutions**, Chenna
 **🔐 Enterprise-Scale Identity & Security**
 - Architected SAML/SSO federation between **Azure Entra ID ↔ OCI IAM** for **45,000+** Fusion Apps users
 - Hardened **10+ projects** to the **CIS 3.0 OCI Foundations Benchmark**
+- Managed PKI/certificate lifecycle for banking SFTP/HTTPS integrations (Emirates NBD, OAB)
 - Built a Bash-based SSL monitoring platform covering **~30 client environments**
 
 </td>
@@ -44,6 +56,7 @@ I'm a **Senior Associate Technical Consultant** at **4i Apps Solutions**, Chenna
 **🤖 AI & Automation**
 - Built **OCI TeraBot**, a self-hosted GenAI Terraform generator (Claude API) covering **18 OCI modules**
 - Automated Docker deployments — zero-touch redeploy on image push to OCIR
+- Automated infra provisioning with Terraform + Ansible, cutting configuration drift
 - Reduced cloud infra costs by **10%** through right-sizing & optimization reviews
 
 </td>
@@ -53,8 +66,9 @@ I'm a **Senior Associate Technical Consultant** at **4i Apps Solutions**, Chenna
 
 **🌐 Infrastructure at Scale**
 - Administer **20+ OCI tenancies** & **200+ Linux servers** (OCI + on-prem)
-- Executed **40+ OL7 → OL8.10** in-place upgrades
-- Designed multi-region DR architecture (Hub-and-Spoke, DRG, WAF, VPN)
+- Executed **40+ OL7 → OL8.10** in-place upgrades with minimal downtime
+- Designed multi-region DR architecture (Hub-and-Spoke, DRG, WAF, VPN) across 4 regions
+- Delivered **24×7 on-call** production support against SLA
 
 </td>
 <td width="50%" valign="top">
