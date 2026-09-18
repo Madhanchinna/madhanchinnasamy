@@ -1,178 +1,132 @@
-<h1 align="center">Hi there, I'm Madhan 👋</h1>
-<h3 align="center">☁️ OCI Cloud Engineer | DevOps | Security & IAM | AI-Powered Automation</h3>
+<h1 align="center">Hi 👋, I'm Madhan C</h1>
+<h3 align="center">☁️ OCI Cloud Engineer | Infrastructure, Security & AI Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A3E0&center=true&vCenter=true&width=650&lines=Administering+20%2B+OCI+Tenancies+Across+the+GCC+Region;Securing+45%2C000%2B+Fusion+Apps+Users+via+SAML%2FSSO;Building+AI-Powered+Terraform+Generators+with+Claude+API;Oracle+Cloud+Certified+Professional+%C3%97+3" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/madhan-chinnasamy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Madhanchinna"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://credly.com/users/madhan-c"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
+  <a href="https://medium.com/@madhan97.sms"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:madhan97.sms@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/madhan-chinnasamy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Madhanchinna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://medium.com/@madhan97.sms"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://credly.com/users/madhan-c"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
-  <a href="mailto:madhan97.sms@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  📍 Chennai, Tamil Nadu, India &nbsp;|&nbsp; 📞 +91 9080828744
 </p>
 
 ---
 
-### 🎬 Portfolio
+### 🧭 About Me
 
-<p align="center">
-  <a href="https://claude.ai/artifact/HaSgbzC8e79U4woMXFA3RV">
-    <img src="./assets/portfolio-banner.png" width="720" alt="Watch the cinematic portfolio" />
-  </a>
-</p>
-<p align="center"><i>Click to open the full cinematic portfolio — live stats, field log, and the OCI TeraBot build walkthrough.</i></p>
+I'm a **Cloud Engineer with 3+ years of experience** administering **20+ Oracle Cloud Infrastructure (OCI) tenancies** across production, test, and UAT environments for **15+ enterprise clients** across the Middle East and Asia (including **KPMG, Msheireb, Omran, Darwish Holding, and CCC**).
 
----
+I specialize in turning fragile, manual cloud operations into **secure, automated, and observable systems** — from architecting SAML/SSO federation for tens of thousands of enterprise users, to building an **AI-powered Terraform generator on the Anthropic Claude API** that cuts infrastructure-as-code authoring time for my team.
 
-### 👨‍💻 About Me
-
-I'm a **Senior Associate Technical Consultant** at **4i Apps Solutions**, Chennai, with **3+ years** administering enterprise **Oracle Cloud Infrastructure (OCI)** environments for **15+ clients** across the **Middle East and Asia** — including **KPMG, Msheireb, Omran, Darwish Holding, and CCC**. I specialize in cloud infrastructure, IAM/security, and combining **Infrastructure-as-Code with GenAI** to make cloud teams move faster.
-
-- 🔭 Currently building **OCI TeraBot** — an AI-powered Terraform generator using the **Anthropic Claude API**
-- 🛡️ Focused on **IAM, SSO federation, and CIS 3.0 OCI Foundations Benchmark** hardening
-- 🌍 Managing **20+ OCI tenancies** across UAE East, EU Frankfurt-1, Qatar & Saudi Arabia
-- 🗣️ Speak **English & Tamil**
-- 📫 Reach me at **madhan97.sms@gmail.com**
+I care about three things in my work: **security posture, automation, and reliability at scale.**
 
 ---
 
-### 🏆 Highlighted Achievements
+### 💼 What I Bring to an Organization
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔐 Enterprise-Scale Identity & Security**
-- Architected SAML/SSO federation between **Azure Entra ID ↔ OCI IAM** for **45,000+** Fusion Apps users
-- Hardened **10+ projects** to the **CIS 3.0 OCI Foundations Benchmark**
-- Managed PKI/certificate lifecycle for banking SFTP/HTTPS integrations (Emirates NBD, OAB)
-- Built a Bash-based SSL monitoring platform covering **~30 client environments**
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 AI & Automation**
-- Built **OCI TeraBot**, a self-hosted GenAI Terraform generator (Claude API) covering **18 OCI modules**
-- Automated Docker deployments — zero-touch redeploy on image push to OCIR
-- Automated infra provisioning with Terraform + Ansible, cutting configuration drift
-- Reduced cloud infra costs by **10%** through right-sizing & optimization reviews
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 Infrastructure at Scale**
-- Administer **20+ OCI tenancies** & **200+ Linux servers** (OCI + on-prem)
-- Executed **40+ OL7 → OL8.10** in-place upgrades with minimal downtime
-- Designed multi-region DR architecture (Hub-and-Spoke, DRG, WAF, VPN) across 4 regions
-- Delivered **24×7 on-call** production support against SLA
-
-</td>
-<td width="50%" valign="top">
-
-**🎓 Certifications**
-- OCI 2025 Certified **DevOps Professional**
-- OCI 2025 **Migration Architect** Certified Professional
-- OCI 2025 **Architect Associate**
-- AWS Cloud Quest: **Cloud Practitioner**
-
-</td>
-</tr>
-</table>
+| Value Driver | Impact |
+|---|---|
+| 🔐 **Enterprise Identity & Security** | Architected SAML/SSO federation (Azure Entra ID ↔ OCI IAM) securing **45,000+ Fusion Applications users**; hardened environments to the **CIS 3.0 OCI Foundations Benchmark** across 10+ projects |
+| 🤖 **AI-Powered Automation** | Built **OCI TeraBot**, a self-hosted GenAI Terraform generator (Claude API) spanning **18 OCI modules**, cutting manual IaC authoring time for the team |
+| 💰 **Cost Optimization** | Reduced cloud infrastructure spend by **10%** across production environments via right-sizing and eliminating over-provisioned resources |
+| 🛡️ **Proactive Risk Reduction** | Built a Bash-based SSL/certificate monitoring platform covering **~30 client environments** with automated expiry alerting — preventing outages before they happen |
+| 🌍 **Multi-Region DR Strategy** | Designed network architecture and led disaster-recovery strategy across **UAE East, EU Frankfurt-1, Qatar, and Saudi Arabia** |
+| ⚙️ **Zero-Touch Deployments** | Automated Docker deployments end-to-end — containers redeploy the instant an image is pushed to OCIR, removing manual release steps |
+| 🖥️ **Scale of Ownership** | Administered **200+ Linux servers** and executed **40+ OL7 → OL8.10 in-place upgrades** with zero-surprise production support |
+| 📞 **Always-On Reliability** | Delivered **24×7 on-call production support** across VCN, DRG, WAF, DNS, and load-balancer incidents while maintaining SLA compliance |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**☁️ Cloud & Infrastructure**
-
+**Cloud & Networking**
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+**Identity & Security**
+![Azure AD](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SAML](https://img.shields.io/badge/SAML/SSO-orange?style=flat-square)
+![CIS Benchmark](https://img.shields.io/badge/CIS_3.0_Hardening-black?style=flat-square)
+
+**Linux & Ops**
+![Linux](https://img.shields.io/badge/Oracle_Linux/RHEL-000000?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**CI/CD & Containers**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**🔐 Identity & Security**
+**Oracle Middleware & Apps**
+![OIC](https://img.shields.io/badge/Oracle_Integration_Cloud-red?style=flat-square)
+![Fusion](https://img.shields.io/badge/Oracle_Fusion_SaaS-red?style=flat-square)
+![APEX](https://img.shields.io/badge/Oracle_APEX-red?style=flat-square)
 
-![SAML](https://img.shields.io/badge/SAML_SSO-005571?style=flat-square&logo=auth0&logoColor=white)
-![Azure AD](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![CIS](https://img.shields.io/badge/CIS_3.0_Benchmark-4B8BBE?style=flat-square&logo=shieldsdotio&logoColor=white)
-![PKI](https://img.shields.io/badge/PKI_%2F_SSL-000000?style=flat-square&logo=letsencrypt&logoColor=white)
-
-**⚙️ CI/CD & Automation**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-
-**🐧 Linux & Middleware**
-
-![Linux](https://img.shields.io/badge/Oracle_Linux%2FRHEL-EE0000?style=flat-square&logo=linux&logoColor=white)
-![OIC](https://img.shields.io/badge/Oracle_Integration_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**📊 Monitoring & Data**
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle_ATP%2FDBCS-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**🧠 AI**
-
-![Claude API](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**AI**
+![Claude API](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square)
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-<a href="https://github.com/Madhanchinna">
-<img align="left" width="50%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00A3E0&center=false&vCenter=true&width=500&lines=%F0%9F%A4%96+OCI+TeraBot;GenAI+Terraform+Generator+%E2%80%94+18+OCI+Modules;Built+with+the+Anthropic+Claude+API;Cross-Module+Suggestions+%2B+oracle%2Foci+v8.x" />
-</a>
-<br clear="left"/>
+#### 🤖 [OCI TeraBot — GenAI Terraform Generator](#)
+Self-hosted, browser-based tool powered by the **Anthropic Claude API** that generates production-ready Terraform across **18 OCI modules** using the `oracle/oci v8.x` provider, with intelligent cross-module suggestions — built to cut manual IaC authoring time for the team.
 
-**OCI TeraBot** — A self-hosted, browser-based tool that uses the Claude API to generate production-ready Terraform across **18 OCI modules** with the `oracle/oci` v8.x provider, complete with intelligent cross-module suggestions — cutting manual IaC authoring time for the team.
+#### 🔐 SAML/SSO Federation at Enterprise Scale
+Architected identity federation between **Azure Entra ID and OCI IAM Identity Domains** to secure Fusion Applications access for **45,000+ users**, including MFA enforcement for supplier accounts.
 
-Other projects: **AWS Three-Tier Architecture (IaC)** — full three-tier VPC with Terraform modules, ALB & Auto Scaling · **Self-Hosted GitLab CI/CD** — GitLab Runner on EC2 for automated Java app builds & deployment.
+#### ☁️ AWS Three-Tier Architecture (IaC)
+Provisioned a full three-tier VPC (web/app/database) using **Terraform** with reusable modules, an Application Load Balancer, and Auto Scaling for high availability.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Madhanchinna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhanchinna&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhanchinna&theme=tokyonight&hide_border=true" />
-</p>
+#### 🦊 Self-Hosted GitLab CI/CD
+Architected a GitLab Runner on EC2 for automated build, containerization, and deployment of Java applications to the GitLab Container Registry.
 
 ---
 
-### 🎓 Certifications & Badges
+### 🏆 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OCI_2025-Certified_DevOps_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCI_2025-Migration_Architect_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OCI_2025-Architect_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
+- 🥇 **Oracle Cloud Infrastructure 2025 Certified DevOps Professional**
+- 🥇 **Oracle Cloud Infrastructure 2025 Migration Architect Certified Professional**
+- 🥇 **Oracle Cloud Infrastructure 2025 Certified Architect Associate**
+- 🥈 **AWS Cloud Quest: Cloud Practitioner**
+
+> 🔗 View verified badges on my [Credly profile](https://credly.com/users/madhan-c)
+
+---
+
+### 📈 Career Snapshot
+
+```text
+Positka FSI Pvt Ltd                4i Apps Solutions Pvt Ltd
+Technical Trainee                  Senior Associate Technical Consultant
+Aug 2022 ─────────── Feb 2023      Oct 2023 ─────────────────────► Present
+   AWS · Splunk · CloudTrail          OCI · IAM · Terraform · Claude API · DR
+```
+
+---
+
+### 🎓 Education
+
+- **BE, Electrical and Electronics Engineering** — Kumaraguru College of Technology, Coimbatore (2020) — CGPA 7.2
+- **Diploma, Electrical Engineering** — Lakshmi Narayana Polytechnic College, Dharmapuri (2017) — 94%
+- **HSC, Computer Science** — Seventh Day Adventist Matric Hr Sec School, Dharmapuri (2015) — 67%
+
+---
+
+### 🌐 Languages
+`English` &nbsp;•&nbsp; `Tamil`
 
 ---
 
 <p align="center">
-  <i>💡 Open to interesting conversations on cloud architecture, security, and AI-powered automation.</i><br>
-  <b>📍 Chennai, Tamil Nadu, India</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhanchinna&style=flat-square&color=00A3E0" alt="profile views" />
+  💬 Open to conversations on <b>OCI architecture, IAM/SSO, DevOps automation, and AI-driven infrastructure tooling</b>.<br/>
+  📫 Reach me at <a href="mailto:madhan97.sms@gmail.com">madhan97.sms@gmail.com</a>
 </p>
